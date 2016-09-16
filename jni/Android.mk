@@ -1,9 +1,9 @@
 LOCAL_PATH := $(call my-dir)
 
 IMAGE_MAGICK 	    := ImageMagick-6.7.3-0/
-JPEG_SRC_PATH 		:= jpeg-8c/
+JPEG_SRC_PATH 		:= jpeg-9b/
 PHYSFS_SRC_PATH 	:= physfs-2.0.2/
-PNG_SRC_PATH 		:= libpng-1.5.6/
+PNG_SRC_PATH 		:= libpng-1.5.26/
 TIFF_SRC_PATH 		:= tiff-3.9.5/
 FREETYPE_SRC_PATH	:= freetype2-android/
 ZLIB_SRC_PATH	    := zlib128/
